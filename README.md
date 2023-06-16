@@ -14,7 +14,7 @@ Dla systemu linux:
 ```bash
 ./startup.sh
 ```
-Dla systemu Windosw
+Dla systemu Windows
 ```bash
 startup.bat
 ```
